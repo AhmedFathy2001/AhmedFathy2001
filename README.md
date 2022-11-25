@@ -7,7 +7,7 @@ Software Engineer
 I'm a professional Frontend developer, with vast knowledge in HTML5, CSS3, SASS, JavaScript, TypeScript, jQuery, React, Angular, Flutter, and a few more technologies like unity, C# and Java. Currently having more interest in Game design and Backend development as of now, not sure where I'm going but will definitely get there!
 
 * 🌍  I'm based in Egypt
-* 🖥️  See my portfolio at [here](http://https://ahmedfathy2001.github.io/My-Links/)
+* 🖥️  See my portfolio [here](http://https://ahmedfathy2001.github.io/My-Links/)
 * ✉️  You can contact me at [ahmedfathy075@gmail.com](mailto:ahmedfathy075@gmail.com)
 * 🚀  I'm currently working on [Vision Arcade](http://visionarcade.io/)
 * 🧠  I'm learning Unity / C# and ASP.NET

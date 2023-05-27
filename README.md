@@ -9,8 +9,8 @@ I'm a professional Frontend developer, with vast knowledge in HTML5, CSS3, SASS,
 * 🌍  I'm based in Egypt
 * 🖥️  See my portfolio [here](https://ahmedfathy2001.github.io/My-Links/)
 * ✉️  You can contact me at [ahmedfathy075@gmail.com](mailto:ahmedfathy075@gmail.com)
-* 🚀  I'm currently working on [Vision Arcade](http://visionarcade.io/)
-* 🧠  I'm learning Unity / C# and ASP.NET
+* 🚀  I'm currently working on some new ML project!
+* 🧠  I'm learning python / ML
 * 🤝  I'm open to collaborating on Frontend, Backend, Game Design Projects
 
 ![Visitor Count](https://profile-counter.glitch.me/AhmedFathy2001/count.svg)

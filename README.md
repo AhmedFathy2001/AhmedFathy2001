@@ -8,7 +8,7 @@ I'm a professional Frontend developer, with vast knowledge in HTML5, CSS3, SASS,
 
 * 🌍  I'm based in Egypt
 * 🖥️  See my portfolio [here](https://ahmedfathy2001.github.io/My-Links/)
-* ✉️  You can contact me at [ahmed@nextgen.com](mailto:ahmed@nextgen.com)
+* ✉️  You can contact me at [ahmed@nextgen.com](mailto:ahmed@nextgen-softwares.com)
 * 🚀  I'm currently working on some new ML projects!
 * 🧠  I'm learning python / ML
 * 🤝  I'm open to collaborating on Frontend, Backend, Game Design Projects
